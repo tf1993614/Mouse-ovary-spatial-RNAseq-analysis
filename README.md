@@ -1,6 +1,6 @@
 # Mouse-ovary-spatial-RNAseq-analysis
 
-This includes all original codes analysing a public spatial RNAseq dataset accessing by using GSE188257 on GEO database.
+This includes all original codes analysing a public spatial RNAseq dataset accessing by using [GSE188257](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188257) on GEO database.
 
 ## Scripts includes:
 - **step0-customized_functions**: R script including customized functions for data visualization and analysis
